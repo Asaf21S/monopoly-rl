@@ -1,0 +1,5 @@
+player,wins,win_rate_pct,episodes,is_qlearner
+Aggressive,131,26.20,500,True
+Conservative,193,38.60,500,False
+Random,33,6.60,500,False
+ValueBuyer,143,28.60,500,False
