@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(where python3 *)",
+      "Bash(where py *)",
+      "Bash(where conda *)",
+      "Bash(py --version)",
+      "Bash(python3 -c \"import numpy, xlsxwriter; print\\('deps ok'\\)\")",
+      "Bash(C:\\\\Users\\\\orenb\\\\AppData\\\\Local\\\\Python\\\\bin\\\\python3.exe -c \"import numpy, xlsxwriter; print\\('deps ok'\\)\")",
+      "PowerShell(& \"C:\\\\Users\\\\orenb\\\\AppData\\\\Local\\\\Python\\\\bin\\\\python3.exe\" -c \"import numpy, xlsxwriter; print\\('deps ok'\\)\" 2>&1)",
+      "Bash(Get-ChildItem -Path \"c:\\\\Users\\\\orenb\\\\Desktop\\\\אישי\\\\תואר שני\\\\Reinforcement Learning\\\\RL Project\" -Recurse)",
+      "Bash(Select-Object FullName)",
+      "Bash(python rl_environment.py)",
+      "Bash(python3 \"c:\\\\Users\\\\orenb\\\\Desktop\\\\אישי\\\\תואר שני\\\\Reinforcement Learning\\\\RL Project\\\\rl_environment.py\")",
+      "Bash(py \"c:\\\\Users\\\\orenb\\\\Desktop\\\\אישי\\\\תואר שני\\\\Reinforcement Learning\\\\RL Project\\\\rl_environment.py\")"
+    ]
+  }
+}

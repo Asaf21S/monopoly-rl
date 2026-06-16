@@ -1,0 +1,5 @@
+player,wins,win_rate_pct,episodes,is_ppo
+Aggressive,601,40.07,1500,False
+Conservative,395,26.33,1500,False
+Random,115,7.67,1500,False
+ValueBuyer,389,25.93,1500,True
