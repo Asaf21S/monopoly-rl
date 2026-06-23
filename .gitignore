@@ -1,0 +1,9 @@
+
+# Model weights and training output
+outputs/
+*.pt
+ppo_training_results/
+ppo_training_results_ratio_reward/
+
+# IDE
+.idea/
